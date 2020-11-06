@@ -1,5 +1,5 @@
 # BookManageWeb
-Application made in Java using JSP, using MySQL as back-end
+Application made in Java using JSP, Tomcat Server as DB with MySQL queries
 
 Requires:
 
